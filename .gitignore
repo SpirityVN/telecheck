@@ -1,0 +1,6 @@
+venv
+*.rdb
+*.session
+.env
+__pycache__
+*.pyc
